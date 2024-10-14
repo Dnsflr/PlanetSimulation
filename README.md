@@ -3,7 +3,7 @@ A planetary simulation using Pygame, complete with twinkling stars and orbiting 
 
 # Planet Simulation 🌍🪐🌟
 
-![Simulation Screenshot](images/screenshot.png)
+![Simulation Screenshot](imgs/screenshot.png)
 
 A simple planetary simulation using Pygame. This project simulates the motion of planets in a solar system with realistic gravity and particle effects, and includes background music for an immersive experience.
 
