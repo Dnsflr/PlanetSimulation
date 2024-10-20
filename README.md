@@ -9,10 +9,14 @@ A simple planetary simulation using Pygame. This project simulates the motion of
 
 ## Features
 
-- **Twinkling Stars**: Randomly generated stars that twinkle with varying brightness.
-- **Planetary Motion**: Realistic simulation of planetary orbits with gravitational forces.
-- **Particle Effects**: Planets emit particles as they move, creating a dynamic trail effect.
-- **Background Music**: Atmospheric music to enhance the simulation.
+- **Twinkling Stars**: Randomly generated stars that twinkle with varying brightness to create a dynamic cosmic background.
+- **Planetary Motion**: Realistic simulation of planetary orbits based on gravitational forces between celestial bodies.
+- **Particle Effects**: Planets emit particles as they move, creating visually appealing trails behind them.
+- **Background Music**: Atmospheric music plays continuously in the background to enhance the simulation's ambiance.
+
+- **Simulate Toggle**: Users can toggle the simulation of individual planets (ON/OFF) via the UI.
+- **Editable Planet Mass**: The mass of each planet can be modified during the simulation, with real-time updates on its orbital behavior.
+- **Multiple Planet Selection**: Easily switch between planets using keyboard controls to view and modify different celestial bodies.
 
 ## Installation
 
