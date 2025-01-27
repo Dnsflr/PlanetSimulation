@@ -18,14 +18,6 @@ BACKGROUND_IMG_SCALED = pygame.transform.scale(BACKGROUND_IMG,(int(BACKGROUND_IM
 SUN_IMG = pygame.image.load('PlanetSim\imgs\sun.png.png')
 SUN_IMG_SCALED = pygame.transform.scale(SUN_IMG,(int(SUN_IMG.get_width() / 4), int(SUN_IMG.get_height() / 4)))
 
-
-
-
-def gowno():
-    pass
-
-
-
 #COLORS
 WHITE = (255, 255, 255)
 YELLOW = (255, 255, 0)
